@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![CoderSales GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderSales)](https://github.com/CoderSales/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSales)](https://github.com/CoderSales/github-readme-stats&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSales&layout=compact)](https://github.com/CoderSales/github-readme-stats&layout=compact)
 
 References:
 
