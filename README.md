@@ -25,4 +25,4 @@ References:
 
 [bodograumann](https://github.com/bodograumann)
 
-[anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+Visuals: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
