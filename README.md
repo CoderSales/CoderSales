@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 [![CoderSales GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderSales)](https://github.com/CoderSales/github-readme-stats)
 
 References:
+
 [ndelangen](https://github.com/ndelangen?tab=following)
+
 [bodograumann](https://github.com/bodograumann)
+
 [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
