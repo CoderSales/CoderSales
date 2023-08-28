@@ -32,12 +32,16 @@ Technologies:
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1920px-Git-logo.svg.png" alt="Git" width="62"></a></td>
         <td><a href="https://en.wikipedia.org/wiki/GitHub" target="_blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" alt="GitHub" width="45"></a></td>
+        <td><a href="" target="_blank">
+            <img src="" alt="git bash" width="45"></a></td>
+
     </tr>
     <tr>
         <td><center>HTML5</center></td>
         <td><center>CSS3</center></td>
         <td><center>Git</center></td>
         <td><center>GitHub</center></td>
+        <td><center>git bash</center></td>
     </tr>
 </table>
 
