@@ -41,7 +41,7 @@ Technologies:
         <td><center>CSS3</center></td>
         <td><center>Git</center></td>
         <td><center>GitHub</center></td>
-        <td><center>git bash</center></td>
+        <td><center>git-bash</center></td>
     </tr>
 </table>
 
