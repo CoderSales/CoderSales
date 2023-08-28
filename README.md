@@ -32,8 +32,8 @@ Technologies:
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1920px-Git-logo.svg.png" alt="Git" width="62"></a></td>
         <td><a href="https://en.wikipedia.org/wiki/GitHub" target="_blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" alt="GitHub" width="45"></a></td>
-        <td><a href="" target="_blank">
-            <img src="" alt="git-bash" width="45"></a></td>
+        <td><a href="https://gitforwindows.org/" target="_blank">
+            <img src="/static/images/git-bash.png" alt="git-bash" width="45"></a></td>
     </tr>
     <tr>
         <td><center>HTML5</center></td>
@@ -57,3 +57,5 @@ Technologies:
 [ChatGPT3.5](https://chat.openai.com/)
 
 [CoderSales/Portfolio_Project_1/](https://github.com/CoderSales/Portfolio_Project_1/)
+
+[Digital sketch of git bash image made using Google Slides](https://www.google.com/slides/about/)
