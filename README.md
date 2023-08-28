@@ -33,7 +33,7 @@ Technologies:
         <td><a href="https://en.wikipedia.org/wiki/GitHub" target="_blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" alt="GitHub" width="45"></a></td>
         <td><a href="" target="_blank">
-            <img src="" alt="git bash" width="45"></a></td>
+            <img src="" alt="git-bash" width="45"></a></td>
 
     </tr>
     <tr>
