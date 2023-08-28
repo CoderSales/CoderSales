@@ -52,7 +52,7 @@ References:
 
 Visuals: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
-HTML Debugging:
+HTML Formatting:
 
 [ChatGPT3.5](https://chat.openai.com/)
 
