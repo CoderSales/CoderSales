@@ -52,9 +52,13 @@ References:
 
 Visuals: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
-Technologies:
+HTML Debugging:
 
 [ChatGPT3.5](https://chat.openai.com/)
+
+[html checker](https://validator.w3.org/nu/#textarea)
+
+Technologies:
 
 [CoderSales/Portfolio_Project_1/](https://github.com/CoderSales/Portfolio_Project_1/)
 
