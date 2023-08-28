@@ -58,7 +58,7 @@ HTML Formatting:
 
 [html checker](https://validator.w3.org/nu/#textarea)
 
-Technologies:
+Technologies Table Formatting:
 
 [CoderSales/Portfolio_Project_1/](https://github.com/CoderSales/Portfolio_Project_1/)
 
