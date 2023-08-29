@@ -2,6 +2,11 @@
 
 - I am a Junior Developer.
 - 🔭 I’m currently working on making a **website** with **[python](https://www.python.org/)**, **[django](https://www.djangoproject.com/)**, **[postgreSQL](https://www.postgresql.org/)**, **[React](https://react.dev/)**, and an **Application Program Interface** like the **[polygon.io](https://polygon.io/)** for stock market information.
+
+[![CoderSales GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderSales)](https://github.com/CoderSales/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSales&layout=compact)](https://github.com/CoderSales/github-readme-stats&layout=compact)
+
 - 🌱 I’m currently learning **[python](https://www.python.org/)**.
 - 👯 I’m looking to collaborate on my first open source contribution, like **documentation** for **[pandas](https://pandas.pydata.org/)**.
 <!-- - ⚡ Fun fact: [(R) Radio Shack](https://radioshack.com/) is back, and there is at least [one of the original signs](https://youtu.be/EY6q5dv_B-o?t=329) in existence. -->
@@ -41,11 +46,6 @@ Here are some ideas to get you started:
 
 -->
 
-<!--
-[![CoderSales GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderSales)](https://github.com/CoderSales/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSales&layout=compact)](https://github.com/CoderSales/github-readme-stats&layout=compact)
--->
 
 #### **Technologies Used**:
 
