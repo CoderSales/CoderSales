@@ -1,19 +1,19 @@
 # References
 
-[ndelangen](https://github.com/ndelangen?tab=following)
+1. [ndelangen](https://github.com/ndelangen?tab=following)
 
-[bodograumann](https://github.com/bodograumann)
+2. [bodograumann](https://github.com/bodograumann)
 
-Visuals: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+3. Visuals: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 HTML Formatting:
 
-[ChatGPT3.5](https://chat.openai.com/)
+4. [ChatGPT3.5](https://chat.openai.com/)
 
-[html checker](https://validator.w3.org/nu/#textarea)
+5. [html checker](https://validator.w3.org/nu/#textarea)
 
 Technologies Table Formatting:
 
-[CoderSales/Portfolio_Project_1/](https://github.com/CoderSales/Portfolio_Project_1/)
+6. [CoderSales/Portfolio_Project_1/](https://github.com/CoderSales/Portfolio_Project_1/)
 
-[Digital sketch of git bash image made using Google Slides](https://www.google.com/slides/about/)
+7. [Digital sketch of git bash image made using Google Slides](https://www.google.com/slides/about/)
