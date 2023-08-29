@@ -16,7 +16,7 @@ These Frameworks are on my "Technology TODO list":
 
 - **Django**, **React**, and **Bootstrap**.
 
-- I have a little knowledge of **web development**, **data science**, 
+- I have a little knowledge of **web development** and **data science**. 
 
 ____
 
