@@ -50,13 +50,9 @@ Citations:
 
 Visuals: [3](https://github.com/anuraghazra/github-readme-stats)
 
-HTML Formatting:
+HTML Formatting: [4](https://chat.openai.com/), [5](https://validator.w3.org/nu/#textarea)
 
-[4](https://chat.openai.com/), [5](https://validator.w3.org/nu/#textarea)
-
-Technologies Table Formatting:
-
-[6](https://github.com/CoderSales/Portfolio_Project_1/), [7](https://www.google.com/slides/about/)
+Technologies Table Formatting: [6](https://github.com/CoderSales/Portfolio_Project_1/), [7](https://www.google.com/slides/about/)
 
 References:
 
