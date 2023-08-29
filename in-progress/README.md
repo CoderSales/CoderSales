@@ -17,8 +17,6 @@ I know a little about:
 <!-- These Frameworks are on my "Technology TODO list":  -->
 - these **Frameworks**: **Django**, **React**, and **Bootstrap**.
 
-- I have a little knowledge of: **web development** and **data science**. 
-
 ____
 
 I am interested in learning:
