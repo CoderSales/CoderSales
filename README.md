@@ -54,6 +54,4 @@ HTML Formatting: [4](https://chat.openai.com/), [5](https://validator.w3.org/nu/
 
 Technologies Table Formatting: [6](https://github.com/CoderSales/Portfolio_Project_1/), [7](https://www.google.com/slides/about/)
 
-References:
-
-See [documentation/References.md](https://github.com/CoderSales/CoderSales/blob/main/documentation/References.md)
+References at [documentation/References.md](https://github.com/CoderSales/CoderSales/blob/main/documentation/References.md)
