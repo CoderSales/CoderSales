@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 - I am a Junior Developer.
+
+- 📫 How to reach me: PortfolioProject5v4@proton.me
+
 - 🔭 I’m currently working on making a **website** with **[python](https://www.python.org/)**, **[django](https://www.djangoproject.com/)**, **[postgreSQL](https://www.postgresql.org/)**, **[React](https://react.dev/)**, and an **[Application Program Interface](https://en.wikipedia.org/wiki/API)** like the **[polygon.io](https://polygon.io/)** for stock market information.
 
 [![CoderSales GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderSales)](https://github.com/CoderSales/github-readme-stats)
@@ -67,7 +70,6 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 
 -->
