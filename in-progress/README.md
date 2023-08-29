@@ -18,14 +18,14 @@ Here are some lists:
 
 - **Django**, **React**, and **Bootstrap**.
 
-- I have a little knowledge of **web development** and **data science**. 
+- I have a little knowledge of: **web development** and **data science**. 
 
 ____
 
 I am interested in learning:
 
-- cloud technologies like **AWS**.
-- databases like, **mySQL**, **postgreSQL**
+- **cloud** technologies like: **AWS**.
+- **databases** like: **mySQL**, **postgreSQL**
 <!-- - trending technologies like Computer Vision, and Natural Language Processing. -->
 
 ____
