@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on making a website with **[python](https://www.python.org/)**, **[django](https://www.djangoproject.com/)**, **[postgresql](https://www.postgresql.org/)**, **[react](https://react.dev/)**, and an **api** like **[polygon.io](https://polygon.io/)**.
 - 🌱 I’m currently learning **[python](https://www.python.org/)**, **[javascript](https://www.javascript.com/)**.
-- 👯 I’m looking to collaborate on my first open source contribution, like maybe **documentation** for [pandas](https://pandas.pydata.org/) or something.
+- 👯 I’m looking to collaborate on my first open source contribution, like **documentation** for **[pandas](https://pandas.pydata.org/)**.
 - ⚡ Fun fact: [(R) Radio Shack](https://radioshack.com/) is back, and there is at least [one of the original signs](https://youtu.be/EY6q5dv_B-o?t=329) in existence.
 
 I know a little about:
