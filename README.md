@@ -44,22 +44,26 @@ Technologies:
     </tr>
 </table>
 
-References:
+Citations:
 
-[ndelangen](https://github.com/ndelangen?tab=following)
+[1](https://github.com/ndelangen?tab=following)
 
-[bodograumann](https://github.com/bodograumann)
+[2](https://github.com/bodograumann)
 
-Visuals: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+Visuals: [3](https://github.com/anuraghazra/github-readme-stats)
 
 HTML Formatting:
 
-[ChatGPT3.5](https://chat.openai.com/)
+[4](https://chat.openai.com/)
 
-[html checker](https://validator.w3.org/nu/#textarea)
+[5](https://validator.w3.org/nu/#textarea)
 
 Technologies Table Formatting:
 
-[CoderSales/Portfolio_Project_1/](https://github.com/CoderSales/Portfolio_Project_1/)
+[6](https://github.com/CoderSales/Portfolio_Project_1/)
 
-[Digital sketch of git bash image made using Google Slides](https://www.google.com/slides/about/)
+[7](https://www.google.com/slides/about/)
+
+References:
+
+See documentation/References.md
