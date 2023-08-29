@@ -24,14 +24,6 @@ I know a little about:
 
 ____
 
-I am interested in learning:
-
-- **cloud** technologies like: **AWS**.
-- **databases** like: **mySQL**, **postgreSQL**
-<!-- - trending technologies like Computer Vision, and Natural Language Processing. -->
-
-____
-
 #### **Technologies Used**:
 
 <table>
@@ -55,6 +47,17 @@ ____
         <td><center>git-bash</center></td>
     </tr>
 </table>
+
+____
+
+I am interested in learning:
+
+- **cloud** technologies like: **AWS**.
+- **databases** like: **mySQL**, **postgreSQL**
+<!-- - trending technologies like Computer Vision, and Natural Language Processing. -->
+
+____
+
 
 - In my repositories, I like to communicate the main idea by using **documentation**, and I try to at least include a simple README file.
 
