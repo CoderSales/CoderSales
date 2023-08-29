@@ -13,9 +13,7 @@ I know a little about:
 - these scripting languages: **python** and **javascript**
 - these fields: **web development**, **data science**
 <!-- Here are some lists: -->
-
 <!-- (My TODO / To Learn lists // Technology TODO list:) -->
-
 <!-- These Frameworks are on my "Technology TODO list":  -->
 - these **Frameworks**: **Django**, **React**, and **Bootstrap**.
 
