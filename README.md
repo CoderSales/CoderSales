@@ -56,4 +56,4 @@ Technologies Table Formatting: [6](https://github.com/CoderSales/Portfolio_Proje
 
 References:
 
-See documentation/References.md
+See [documentation/References.md](https://github.com/CoderSales/CoderSales/blob/main/documentation/References.md)
