@@ -52,7 +52,7 @@ ____
 I am interested in learning:
 
 - **cloud** technologies like: **[AWS](https://aws.amazon.com/)**.
-- **databases** like: **mySQL**, **postgreSQL**
+- **databases** like: **[mySQL](https://www.mysql.com/)**, **[postgreSQL](https://www.postgresql.org/)**
 <!-- - trending technologies like Computer Vision, and Natural Language Processing. -->
 
 ____
