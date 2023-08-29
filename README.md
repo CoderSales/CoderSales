@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSales&layout=compact)](https://github.com/CoderSales/github-readme-stats&layout=compact)
 
-Technologies:
+#### Technologies Used:
 
-#### Table of Technologies Used
 <table>
     <tr>
         <td><a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
