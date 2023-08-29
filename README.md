@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSales&layout=compact)](https://github.com/CoderSales/github-readme-stats&layout=compact)
 
-#### **Technologies Used-**:
+#### **Technologies Used**:
 
 <table>
     <tr>
