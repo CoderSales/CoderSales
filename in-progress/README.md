@@ -1,17 +1,8 @@
 ### Hi there 👋
 
-<!--
-**CoderSales/CoderSales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on making a website with [python](https://www.python.org/), [django](https://www.djangoproject.com/), [postgresql](https://www.postgresql.org/), [react](https://react.dev/), and an api like [polygon.io](https://polygon.io/)
 - 🌱 I’m currently learning **[python](https://www.python.org/)**, **[javascript](https://www.javascript.com/)**.
 - 👯 I’m looking to collaborate on my first open source contribution, like maybe **documentation** for [pandas](https://pandas.pydata.org/) or something.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: [(R) Radio Shack](https://radioshack.com/) is back, and there is at least [one of the original signs](https://youtu.be/EY6q5dv_B-o?t=329) in existence.
 
 I know a little about:
@@ -38,6 +29,17 @@ I am interested in learning:
 ____
 
 - In my repositories, I like to communicate the main idea by using **documentation**, and I try to at least include a simple README file.
+
+<!--
+**CoderSales/CoderSales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+
 -->
 
 #### **Technologies Used**:
