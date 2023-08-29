@@ -6,6 +6,8 @@
 - 👯 I’m looking to collaborate on my first open source contribution, like **documentation** for **[pandas](https://pandas.pydata.org/)**.
 - ⚡ Fun fact: [(R) Radio Shack](https://radioshack.com/) is back, and there is at least [one of the original signs](https://youtu.be/EY6q5dv_B-o?t=329) in existence.
 
+____
+
 I know a little about:
 
 - these scripting languages: **python** and **javascript**
