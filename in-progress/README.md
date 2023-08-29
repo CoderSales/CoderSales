@@ -14,7 +14,7 @@ Here are some lists:
 
 <!-- (My TODO / To Learn lists // Technology TODO list:) -->
 
-These Frameworks are on my "Technology TODO list": 
+<!-- These Frameworks are on my "Technology TODO list":  -->
 
 - **Django**, **React**, and **Bootstrap**.
 
