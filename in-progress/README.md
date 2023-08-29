@@ -26,7 +26,7 @@ I am interested in learning:
 
 - cloud technologies like **AWS**.
 - databases like, **mySQL**, **postgreSQL**
-- trending technologies like Computer Vision, and Natural Language Processing.
+<!-- - trending technologies like Computer Vision, and Natural Language Processing. -->
 
 ____
 
