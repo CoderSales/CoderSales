@@ -55,7 +55,7 @@ ____
 I am interested in learning:
 
 - **cloud** technologies like: **[AWS](https://aws.amazon.com/)**.
-- **databases** like: **[mySQL](https://www.mysql.com/)**, **[postgreSQL](https://www.postgresql.org/)**
+- open source **databases** like: **[mySQL](https://www.mysql.com/)**, **[postgreSQL](https://www.postgresql.org/)**
 <!-- - trending technologies like Computer Vision, and Natural Language Processing. -->
 
 ____
@@ -77,4 +77,4 @@ Here are some ideas to get you started:
 ____
 
 
-**Citations**: [1](https://github.com/ndelangen?tab=following), [2](https://github.com/bodograumann) `|` Visuals: [3](https://github.com/anuraghazra/github-readme-stats) `|` HTML Formatting: [4](https://chat.openai.com/), [5](https://validator.w3.org/nu/#textarea) `|` Technologies Table Formatting: [6](https://github.com/CoderSales/Portfolio_Project_1/), [7](https://www.google.com/slides/about/) `||` (**[References](https://github.com/CoderSales/CoderSales/blob/main/documentation/References.md)**)
+**Citations**: [1](https://github.com/ndelangen?tab=following), [2](https://github.com/bodograumann) `|` Visuals: [3](https://github.com/anuraghazra/github-readme-stats) `|` HTML Formatting: [4](https://chat.openai.com/), [5](https://validator.w3.org/nu/#textarea) `|` Technologies Table Formatting: [6](https://github.com/CoderSales/Portfolio_Project_1/), [7](https://www.google.com/slides/about/) `|` Open Source Databases: [8](https://www.codecademy.com/paths/design-databases-with-postgresql/tracks/what-is-a-database/modules/welcome-to-design-databases-with-postgresql/articles/what-is-rdbms-sql) `||` (**[References](https://github.com/CoderSales/CoderSales/blob/main/documentation/References.md)**)
