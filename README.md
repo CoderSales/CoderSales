@@ -68,9 +68,9 @@ ____
 
 Here are some ideas to get you started:
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 😄 Pronouns: ...
+- 🤔 I’m looking for help with building my career in tech and contributing to open source
+- 💬 Ask me about simple websites and simple data analysis 
 
 -->
 
