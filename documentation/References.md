@@ -17,3 +17,5 @@ Technologies Table Formatting:
 6. [CoderSales/Portfolio_Project_1/](https://github.com/CoderSales/Portfolio_Project_1/)
 
 7. [Digital sketch of git bash image made using Google Slides](https://www.google.com/slides/about/)
+
+8. [Open Source Databases](https://www.codecademy.com/paths/design-databases-with-postgresql/tracks/what-is-a-database/modules/welcome-to-design-databases-with-postgresql/articles/what-is-rdbms-sql)
