@@ -4,7 +4,7 @@
 
 - 📫 How to reach me: PortfolioProject5v4@proton.me
 
-- 🔭 I’m currently working on making a **website** with **[python](https://www.python.org/)**, **[django](https://www.djangoproject.com/)**, **[postgreSQL](https://www.postgresql.org/)**, **[React](https://react.dev/)**, and an **[Application Program Interface](https://en.wikipedia.org/wiki/API)** like the **[polygon.io](https://polygon.io/)** for stock market information.
+- 🔭 I’m currently working on making a **website** with: **[python](https://www.python.org/)** and **[django](https://www.djangoproject.com/)**. `Nice-to-have's` would be: **[postgreSQL](https://www.postgresql.org/)**, **[React](https://react.dev/)**, and an **[Application Program Interface](https://en.wikipedia.org/wiki/API)** like the **[polygon.io](https://polygon.io/)** for stock market information.
 
 [![CoderSales GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderSales)](https://github.com/CoderSales/github-readme-stats)
 
