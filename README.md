@@ -20,7 +20,7 @@ I know a little about:
 
 - these scripting languages: **[python](https://www.python.org/)** and **[javascript](https://www.javascript.com/)**
 - these fields: **web development**, **data science**
-- these **Frameworks**: **[django](https://www.djangoproject.com/)**, **[React](https://react.dev/)**, and [**Bootstrap**](https://getbootstrap.com/).
+- these **Frameworks**: **[django](https://www.djangoproject.com/)**, and [**Bootstrap**](https://getbootstrap.com/), and I would like to learn these JavaScript Frameworks: **[Next]()** and **[React](https://react.dev/)**.
 <!-- Here are some lists: -->
 <!-- (My TODO / To Learn lists // Technology TODO list:) -->
 <!-- These Frameworks are on my "Technology TODO list":  -->
